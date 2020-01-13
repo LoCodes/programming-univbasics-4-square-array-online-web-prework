@@ -1,6 +1,6 @@
 
 def square_array(array)
   square_array = []
-  new_numbers = [9,10,16,25]
+  count = 0 
   square_array(new_numbers) 
 end
